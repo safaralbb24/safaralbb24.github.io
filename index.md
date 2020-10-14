@@ -1,6 +1,4 @@
-<html>
 
-<body>
     <p class="p1"><strong>Privacy Policy</strong></p>
     <p class="p1">Sherkat Safarhaye Albb built the SafarAlbb app as a Free app. This SERVICE is provided by Sherkat Safarhaye Albb at no cost and is intended for use as is.</p>
     <p class="p1">This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</p>
@@ -57,8 +55,3 @@
     <p class="p1">This policy is effective as of 2020-01-01</p>
     <p class="p1"><strong>Contact Us</strong></p>
     <p class="p1">you can contact the owner of the application with <a href="mailto:safaralbb24@gmail.com"><span class="s4">safaralbb24@gmail.com</span></a></p>
-
-
-</body>
-
-</html>
